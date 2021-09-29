@@ -1,7 +1,7 @@
 # Getting Started with Task tracker
 
 
-Run npm install to get the needed dependencies: 
+Download the file, and run npm install to get the needed dependencies: 
 
 ```
 npm install
