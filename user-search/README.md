@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started 
 
 Download the file, and run npm install to get the needed dependencies: 
 
