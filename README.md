@@ -1,12 +1,12 @@
-### **Hey!**
+
+# **Hey!**
+
+
+## In this repository you will find the coding I did while watching the two recommended tutorials.
 
 
 
-##### In this repository you will find the coding I did while watching the two recommended tutorials.
-
-
-
-##### **For the Udemy course:** React - The Complete Guide (incl Hooks, React Router, Redux). 
+### **For the Udemy course:** React - The Complete Guide (incl Hooks, React Router, Redux). 
 
 You can follow the module of JS refresher in the folder with the same name. 
 Below is the link of the course in case you need it:
@@ -15,7 +15,7 @@ https://altimetrik.udemy.com/course/react-the-complete-guide-incl-redux/learn/le
 
 
 
-##### **Regarding Youtube tutorial:** React JS Crash Course 2021 
+### **Regarding Youtube tutorial:** React JS Crash Course 2021 
 
 The folder is react-task-tracker.
 
@@ -24,3 +24,14 @@ Inside you will find another readme file with the instructions to run the app.
 Below is the link of the course in case you need it:
 
 https://youtu.be/w7ejDZ8SWv8
+
+
+
+### **Im also working on Noel's suggested course: Complete React Developer in 2021 (w/ Redux, Hooks, GraphQL)
+
+The folder of the third module is named users-search.
+Inside you will find another readme file with the instructions to run the app.  
+
+Below is the link of the course in case you need it:
+https://altimetrik.udemy.com/course/complete-react-developer-zero-to-mastery/learn/lecture/14915222#content
+
